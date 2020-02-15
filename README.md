@@ -1,6 +1,6 @@
 # vim-ripgrep
 
-    :Rg <string|pattern>
+    :Rgg <string|pattern>
 
 Word under cursor will be searched if no argument is passed to `Rg`
 

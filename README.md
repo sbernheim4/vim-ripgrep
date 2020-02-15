@@ -2,7 +2,7 @@
 
     :Rgg <string|pattern>
 
-Word under cursor will be searched if no argument is passed to `Rg`
+Word under cursor will be searched if no argument is passed to `Rgg`
 
 ## configuration
 
